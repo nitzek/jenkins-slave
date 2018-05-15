@@ -1,7 +1,5 @@
 FROM ubuntu:xenial
 
-LABEL "Maintainer Chris Mosetick <cmosetick@gmail.com>"
-
 ARG github_token
 
 RUN \
